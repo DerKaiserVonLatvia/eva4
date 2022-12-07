@@ -1,0 +1,24 @@
+div{
+	width:600px;
+
+}
+h1{
+	
+	font-size:16px;
+	color:darkBlue;
+}
+div.d1{
+	
+	background-color:#D8E7D8;    
+}
+img {
+	width:30%;
+}
+div.d2{
+	
+	background-color:#D8E6E7;
+}
+div.d3{
+	
+	background-color:#E9CFE1;
+}
